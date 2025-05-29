@@ -1,4 +1,6 @@
 🚗 Automobile Market Research Analysis Dashboard
+
+
 This project is a comprehensive Power BI Dashboard developed for visualizing and analyzing a dataset of over 1200 cars from various manufacturers. The dashboard provides insights into trends related to fuel type, body style, power, mileage, torque, and more.
 ![image](dashboard.png)
 
