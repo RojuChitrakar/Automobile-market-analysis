@@ -65,7 +65,7 @@ Explore different visuals and insights.
 bash
 Copy
 Edit
-git clone https://github.com/your-username/automobile-market-analysis.git
+git clone [https://github.com/your-username/automobile-market-analysis.git](https://github.com/RojuChitrakar/Automobile-market-analysis?tab=readme-ov-file)
 Note: Power BI dashboard file (.pbix) is not uploaded in this version. You can recreate it using the provided Excel file and dashboard screenshot as a reference.
 
 📬 Contact
